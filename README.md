@@ -8,8 +8,8 @@ Check out the Pix2Pix GAN paper: https://arxiv.org/pdf/1611.07004.pdf
 
 ## Project Timeline
 
-•	Week 1: Brush up basics of Python & basics of neural networks 
-•	Week 2 - 3: Learn convolutional neural networks (CNN’s) & implement them in short project using PyTorch/Tensorflow 
-•	Week 4 - 5: Learn about generative adversarial networks (GAN’s) 
-•	Week 6 - 7: Implement the project idea of colorization using Pix2Pix GAN 
-•	Week 8: Deploy & implement some additional features
+-	Week 1: Brush up basics of Python & basics of neural networks 
+-	Week 2 - 3: Learn convolutional neural networks (CNN’s) & implement them in short project using PyTorch/Tensorflow 
+-	Week 4 - 5: Learn about generative adversarial networks (GAN’s) 
+-	Week 6 - 7: Implement the project idea of colorization using Pix2Pix GAN 
+-	Week 8: Deploy & implement some additional features
